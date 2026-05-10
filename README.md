@@ -61,5 +61,3 @@ Around **13% of delivered orders on Olist receive a negative review**. This proj
 - Data covers 2016–2018; logistics infrastructure may have changed since then.
 
 ---
-
-*Analysis by [your name] — combining SQL-based data extraction with Python modeling on a real e-commerce dataset.*
